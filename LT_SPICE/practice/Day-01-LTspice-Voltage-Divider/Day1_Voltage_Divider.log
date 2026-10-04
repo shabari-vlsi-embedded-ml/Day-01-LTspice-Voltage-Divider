@@ -1,0 +1,14 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\hp\Desktop\Projects\LT_SPICE\practice\Day-01-LTspice-Voltage-Divider\Day1_Voltage_Divider.net
+Start Time: Sun Oct  4 14:11:14 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.017 seconds.
+
+Files loaded:
+C:\Users\hp\Desktop\Projects\LT_SPICE\practice\Day-01-LTspice-Voltage-Divider\Day1_Voltage_Divider.net
+
